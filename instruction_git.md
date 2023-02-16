@@ -8,3 +8,15 @@
 ## Проверка состояния репозитория
 
 Для того чтобы
+
+    git status
+    git init
+    git add<filename>
+    git commit
+    git commit -a
+    git commit -m "mesaage"
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
+    
