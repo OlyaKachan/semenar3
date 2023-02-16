@@ -13,13 +13,17 @@
 
  Для того чтобы увидеть изменения нужно в терменале нажать команду 
    
-    git diff   
+    git diff
+
+Для просмотра сохраненных комитов нужно в терминане набрать команду
+
+    git log
   
     git add<filename>
     git commit
     git commit -a
     git commit -m "mesaage"
-    git log
+
     git log --oneline
     git log --all
     git log --all --oneline
