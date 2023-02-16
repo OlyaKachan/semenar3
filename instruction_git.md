@@ -28,3 +28,5 @@
     git log --all
     git log --all --oneline
     
+    ![Эмблема Git](git.jpg)
+    
