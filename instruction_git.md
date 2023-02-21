@@ -53,7 +53,6 @@
 
 ## Команда для удаления ветки 
 
-    git branch -d <name>
-    
+    git branch -
 
-
+## Работа с github
